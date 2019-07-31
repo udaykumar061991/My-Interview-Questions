@@ -1,1 +1,41 @@
+United health group interview questions:
 
+1. have you created any pipeline?
+2. where do you deploying you application?
+3. what is CI/CD?
+4. what are the roles and responsibiltes in your project?
+
+
+Start up interview questions?
+
+1. tell me about your self?
+2. tell me what are git opertaions your are doing in daily basis?
+3. what are the types of jobs in jenkins?
+4. which scritping languge you used in jenkins?
+5. what are the types of scripting in jenkins?
+6. what is continous integration?
+7. how many ways can you ran your job?
+8. what is the way to build your job from git or using git command?
+9. what is ansible?
+10. once your buid passed then you will get artifacts(.war file) what do you did with .war file? where you used it?
+11. what is play book in ansible?
+12. waht is roles? and what are steps you follow to write a role?
+13. what is module in anisble? which modules you used in ansible?
+14. how to write if and for loops in ansible play book?
+15. I want to print all the host names which were running on ansible server in consle output?
+16. what is docker?  and how your are creating a docker image? which command you used to create image?
+17. what is the command to run docker image? 
+18. what are the commands or varaibles you used while writing docker file?
+19. how to excute multiple tasks using playbook?
+20. waht is ADD and COPY commands in docker file?
+30. I want to make sure how my container is up on running after restatirng docker?
+ans: docker run -d --name image_name -- restart always container_name
+31. what to list running containers ? (ans: docker ps -a )
+32. what is differnece between tuple and list?
+33. why tuple tuple is faster than list?
+34. how many ways passing arguments in pyhton? (ans: call by value, call by reference)
+35. how do you copy an object in python? (ans: concept shallaow copy and deep copy)
+36. is pyhton is object orieneted language or not like c language?
+37. with out declaring class can we create functions or methods in python?
+38. what is passing fucntion arguments in python?
+39. why pyhton is interpreted language and diff between c and pyhton language?
