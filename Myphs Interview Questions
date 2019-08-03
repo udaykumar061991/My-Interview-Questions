@@ -5,7 +5,7 @@ Ans: We can store it into databse and fetch the details?
 4. What are the data types in python?
 5. what is the difference between list and tuple?
 6. how to merege two dictionaries? 
-Ans: d1.update(d2) or merge(d1,d2)
+Ans: d1.update(d2)
 7. Tell me immutable data types and mutable datatypes?
 8. what is the purpose of set operator?
 9. what is your role in your projects with teradata?
