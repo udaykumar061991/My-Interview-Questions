@@ -1,1 +1,27 @@
-
+tell me about your experience and exposure on DevOps?
+which version control system you are using?
+explain git commands on daily basis you are using?
+what is diff between git fetch and get pull?
+what is merge conflict and how you are resloving merge conflicts?
+what is git rebase? how you use it?
+how much experience do you have in python?
+how you are testing python code like unit testing and integration testing?
+which module you used of unit testing the python code?
+what is magicmock? In which scenario you used it and explain about it?
+what is operator overloading and operator overriding?
+what is oops concepts and explain them?
+how you are testing resi api using python code?
+how you are validating your code and have you used any code scanners?
+how you are creating artifacts and where you stored it?
+what is CI/CD?
+what is ansible? how many years exp in ansible and what you did in ansible?
+have you worked on docker? what you did in doecker?
+how to connect 2 containers to talk each other in docker?
+what is micro services?
+what is django frame work?
+what is underlying agent in ansible?
+have you worked on any networking device?
+do you created any frameworks for networks in python?
+have you created any custom modules in ansible?
+what is jinja2? how you used it?
+have you used jinja2 scripts in ansible?
