@@ -1,0 +1,18 @@
+Which git branching you are using in your project?
+What is git pull and git fetch? Diff between them?
+What is git rebase and git merge? Diff between them.
+Tell me the git flow or tell me the git commands you using daily?
+Ans: git checkout -b _my_new_branch
+Git clone repository_name?
+git add ./file name
+Git status
+Git commit - m " commit message"
+Git pull origin master
+Git push origin my_new_branch
+
+What is merge conflicts in git? How to reslove merge conflicts? How can we get merge conflicts?
+How to merge last n commits into a single commit?
+What is production hot fix? 
+I want to get a code form branch A to branch B? (Ans: git pull)
+What is HEAD in git? What is remote or origin in git?
+What is pull request in github?
