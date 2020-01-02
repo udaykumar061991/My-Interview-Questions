@@ -1,0 +1,26 @@
+what is the way to build your job from git or using git command?
+
+What is Continuous integration? Or ci/cd?
+Why is workflow or process in Jenkins?
+What is pipeline? Tell me diff types of pipeline?
+What is Jenkins master and jenkins slave?
+Name the pulgin you used in Jenkins?
+What is Jenkins file? In which format jenkis file written?
+What is node and agent in Jenkins?
+I want to run my job on particular jenkins salves?
+Can we copy or move one job from one env to other environment or dev to qa, qa to production?
+What is declartive pipeline and script based pipeline?
+Can you write a sample Jenkins file ?
+Can you explain jenkins slave and master mechanism?
+How jenkins know that a user push the code to git hub?
+How can you anlyze output of failed build?
+How many ways we can trigger build?
+What is sonar qube and sonar scanner?
+How to use code to deploy containers plugin?
+How a job can be take a backup?
+Where jenkins build stored?
+What is the artifactory in jenkins? Which is nexus? Where your artifacts are stored?
+What is the security options in jenkins ? Where can we set those security settings?
+How to add a slave node in jenkins?
+What is multibrnach pipeline?
+How your code is compiled in jenkins?
