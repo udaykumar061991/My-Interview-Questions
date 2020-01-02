@@ -1,0 +1,27 @@
+1. Berifly explain about your work expereince and projects?
+2. what is docker and purpose of docker, advantages and why we need docker?
+3. how docker works and its components, explain docker architecture?
+4. how can we access a wbe application in a container?
+5. waht is docker compose and why we need docker compose?
+6. what is docker registry, explain about it?
+6. Explain docker file?
+7. how jenkins slave can be created and how will you set up a communication between slave and jenkins master?
+8. In jenkins where you are configure your slaves and explain the steps?
+9. I want to dynamically assign a slave node which is free for each build in jenkins?
+10. how can jenkins know that when user checked in the code to github sever?
+11. i want to run my particular build at particular time, how can we do it?
+12. explain about jenkins slave and master architecture?
+13. which language is used to write pipeline code in jenkinsfile?
+14. waht is micro services? can you expalin about monolitic architecure?
+15. can we install jenkins on kuberenites or aws with out down time and auto distribution of slaves?
+16. let say i have 10 applications which has differnet url's, all fo them need to be redirect to single entry point?
+how can we do that? waht is your approach for this scenrio?
+17. I want to run my appication with down time and need to be manange the traffci as well?
+18. let say your contianers down, then how can we setup automatically up the containaers in kubernetes?
+19. some questions about web server and kuberentes bascis?
+20. do you know the terraform? where we can use the terraform?
+21. explain about how you deployed your code using docker containers and how you host your application?
+22. I want to build a web application and need to run 24/7, explain the whole process and project work flow?
+
+Asked about more related to micro services, proxy redirection or reverse proxy and 
+scaling up of contianers without down time using both  aws and kuberenites....
